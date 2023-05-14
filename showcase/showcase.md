@@ -10,3 +10,9 @@
 
 ### Čebela delavka (peridoa 9)
 ![](figs/oscilator_cebela.gif)
+
+## Jadralec
+![](figs/jadralec.gif)
+
+## Gosperjev strelec jadralcev
+![](figs/Gosperglidergun.gif)
