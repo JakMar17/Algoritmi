@@ -3,7 +3,7 @@
 ## Oscilatorji
 
 ### Žmigavec (perioda 2)
-![](figs/oscilator_zmigavec.gif)
+![](figs/oscilator_zmigavec1.gif)
 
 ### Pulser (perioda 3)
 ![](figs/oscilator_pulser.gif)
