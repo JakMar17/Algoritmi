@@ -8,7 +8,7 @@
 ### Pulser (perioda 3)
 ![](figs/oscilator_pulser.gif)
 
-### Čebela delavka (peridoa 9)
+### Čebela delavka (perida 9)
 ![](figs/oscilator_cebela.gif)
 
 ## Jadralec
